@@ -2,4 +2,4 @@
 
 Testing git merges
 git sample
-Diff sample
+sample test
